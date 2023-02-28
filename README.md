@@ -21,7 +21,7 @@ FiveM Clothing Pack For MP Male &amp; MP Female
 **Thanks for downloading and checking out my clothing pack!**
 
 
-This is a little project I slapped together with the DurtyClothTool
+This is a little project I slapped together with the help of [DurtyFree's](https://github.com/DurtyFree) [Durty Cloth Tool](https://github.com/DurtyFree/durty-cloth-tool)
 
 ---------------------------------------
 
